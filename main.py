@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-
-URL = "https://sports.yahoo.com/kyle-shanahans-49ers-lost-super-160726345.html"
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 """this HEADER helps to access websites that don't like web scraping."""
