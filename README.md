@@ -13,16 +13,16 @@ The project requires Python and Conda to be installed on your machine.
 __Installing__
 Follow these steps to set up a new Conda environment and run the program:
 
-    1. Open your terminal.
+1. Open your terminal.
 
-    2. Navigate to the project directory:
-        **cd path/to/your/project** (please use replace with your path to the file)
+2. Navigate to the project directory:
+    **cd path/to/your/project** (please use replace with your path to the file)
 
-    3. Create a new Conda environment and install the required packages using the requirements.yml file:
-        **conda create -n myenv --file requirements.yml** (please replace "myenv" with your desired environment name)
+3. Create a new Conda environment and install the required packages using the requirements.yml file:
+    **conda create -n myenv --file requirements.yml** (please replace "myenv" with your desired environment name)
 
-    4. Activate the new environment:
-        **conda activate myenv** (please replace "myenv" with environment name created in previous step)
+4. Activate the new environment:
+    **conda activate myenv** (please replace "myenv" with environment name created in previous step)
 
 
 __Running the Program__
