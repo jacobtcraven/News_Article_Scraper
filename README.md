@@ -16,7 +16,7 @@ Follow these steps to set up a new Conda environment and run the program:
 1. Open your terminal.
 
 2. Navigate to the project directory:  
-    *cd path/to/your/project* (please use replace with your path to the file)
+    *cd path/to/your/project* (please replace "path/to/your/project" with your path to the file)
 
 3. Create a new Conda environment and install the required packages using the requirements.yml file:  
     *conda create -n myenv --file requirements.yml* (please replace "myenv" with your desired environment name)
